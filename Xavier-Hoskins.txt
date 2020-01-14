@@ -43,7 +43,7 @@ https://codepen.io/reddook/pen/QWwxzgN?editors=1100
     21. How do we select a p element with a single class of “human””?
 	.human
     22. What is a parent child selector? When would this be useful? 
-	used to select elements with a specific parent useful when you don't want to select 
+	used to select elements with a specific parent useful when you don't want to 	       select 
     23. How do you select all links within a div with the class of sidebar?
 	.class a 
     24. What is a pseudo selector?
@@ -76,13 +76,13 @@ https://codepen.io/reddook/pen/QWwxzgN?editors=1100
     36. What is the command we would use to push our repo up to github? 
 	git push
     37. Walk me through Lambda's git flow. 
-	
+	Fork, Collaborate, Clone, Branch, Submit PR A, Submit PR B 
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
-
+	an inline element does not cause a line break (start on a new line) and does not take up the full width of a page  block-level element always starts on a new line and takes up the full width of a page
     2. What happens when an element is positioned absolutely? 
-
+	it is taken out of the flow, other elements can be positioned around it as if it's not there
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element                       	that is display inline-block by default
